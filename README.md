@@ -1,5 +1,5 @@
 # csen140-fair-comp-project
-## Analyzing salary fairness across different companies and locations
+Analyzing salary fairness across different companies and locations
 
 ### Project Description
 Salaries are very different across different companies, locations, and occupations but a higher salary does not always mean a better purchasing power. Sometimes, it is unclear if employees at specific companies are being fairly compensated. Our project will analyze salary data at different companies and determine whether employees are being generously, fairly, or under-compensated given their salary, occupation, and state. More specifically, we will analyze data on income by occupation and state (dataset 2), data on cost of living by state (dataset 3), as well as data on existing occupations, respective salaries, and location  (dataset 1) to determine if salaries for occupations for certain companies are livable and fair. 
